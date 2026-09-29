@@ -1,4 +1,4 @@
-# Languages per Course Unit
+# Languages per Course Unit in Electrical and Computer Engineering @ Faculty of Engineering of the University of Porto (EEC@FEUP)
 ## Bachelor in Electrical and Computer Engineering
 ### First Grade
 #### First Semester
@@ -12,7 +12,7 @@ IADP (Introduction to Data Analysis in Python) - Python
 ### Third Grade
 #### Second Semester
 RC-RCOM (Computer Networks) - C
-## Master in Electrical and Computer Engineering
+## Master in Electrical and Computer Engineering - Specialization in Automation
 ### First Grade
 #### First Semester
 PSW (Software Design) - C++
