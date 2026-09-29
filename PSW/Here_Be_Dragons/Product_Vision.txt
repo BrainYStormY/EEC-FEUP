@@ -1,0 +1,7 @@
+For people
+who like retro and puzzle games,
+the Here Be Dragons
+is a game
+that you can play on your terminal.
+Unlike using a whole bunch of controls,
+our product only needs 4 keys.

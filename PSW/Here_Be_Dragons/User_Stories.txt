@@ -1,0 +1,7 @@
+As a player,
+I want to be able to load maps from separate files,
+So that I can play on different maps without having to modify the code.
+
+As a player,
+I want the game elements to be randomly generated,
+So that I can have a different experience every time I play.
