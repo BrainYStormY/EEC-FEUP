@@ -15,4 +15,4 @@ RC-RCOM (Computer Networks) - C
 ## Master in Electrical and Computer Engineering - Specialization in Automation
 ### First Grade
 #### First Semester
-PSW (Software Design) - C++
+PSW (Software Design) - C++ & Python
